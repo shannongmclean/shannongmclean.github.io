@@ -1,0 +1,8 @@
+title: Category
+preset: page
+files: false
+template: item.yml
+fields:
+  text:
+    label: Text
+    type: textarea
